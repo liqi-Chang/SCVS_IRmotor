@@ -3,8 +3,8 @@
 #include <IRremote.h>
 
 int RECV_PIN = 11;
-const int motorIn1 = 5;
-const int motorIn2 = 6;
+const int motorIn1 = 6;
+const int motorIn2 = 5;
 int sensorPin = A0;
 int sensorValue = 0;
 
