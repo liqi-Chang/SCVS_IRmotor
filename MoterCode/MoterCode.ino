@@ -1,7 +1,7 @@
 //對應圖號E-04 & E-05
 
-const int motorIn1 = 5;
-const int motorIn2 = 6;
+const int motorIn1 = 6;
+const int motorIn2 = 5;
 
 /*
 int sensorPin = A0;
